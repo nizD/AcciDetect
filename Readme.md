@@ -53,8 +53,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## The Team
-* [Abhinav Jha](https://github.com/aBITnav)
 * [Nizdain Ahmed](https://github.com/nizd)
+* [Abhinav Jha](https://github.com/aBITnav)
 * [Shubham Jha](https://github.com/shubhamjha15)
 * [Sanket Agarwal](https://github.com/xterm-hackslash)
 
