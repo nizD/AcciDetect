@@ -42,7 +42,7 @@ For Lite Version of the Model
 ## WorkFlow
 * We have designed a Deep Learning Neural Network which will feed on real time video captured through cctv cameras installed at accidents prone part of the city. The algorithm was trained on accident images from kaggle 
 * The first step after obtaining images was to pre process the image into a vector containing RGB values. The values obtained were normalized to avoid biases among features
-* The model uses  RESnet as a deep learning neural network to obtain a higher accuracy in predicting the possibility of an accident. In this step the image is convoluted, spooled and fed into layers of neural network.
+* The model uses  RESnet as a deep learning neural network to obtain a higher accuracy in predicting the possibility of an accident. In this step the image is convoluted, pooled and fed into layers of neural network.
 * The model then predicts probability of accident for each frame of video and if the value reaches the threshold it sends a text message to the nearest police station, hospital.
 
 
